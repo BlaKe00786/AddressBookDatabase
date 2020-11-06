@@ -1,0 +1,1 @@
+select count(Email) from AddressBook where type='Agent'
